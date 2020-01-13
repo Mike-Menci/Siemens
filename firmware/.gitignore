@@ -1,0 +1,7 @@
+*.o
+main
+main.bin
+main.map
+main.rom
+startup_samd20.c
+contrib/xdk-asf-3.36.1
