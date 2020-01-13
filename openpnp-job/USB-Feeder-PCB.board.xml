@@ -1,0 +1,298 @@
+<openpnp-board version="1.1" name="USB-Feeder-PCB.board.xml">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <fiducials/>
+   <placements>
+      <placement version="1.2" id="R10" side="Top" part-id="R0805-R05" type="Place" check-fids="false">
+         <location units="Millimeters" x="14.61" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="S10" side="Top" part-id="(unknown)-STL1550WH8" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="18.5" y="91.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="FID1" side="Top" part-id="FIDUCIAL-1X2-FIDUCIAL-1X2" type="Fiducial" check-fids="false">
+         <location units="Millimeters" x="3.81" y="90.3" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="M2" side="Top" part-id="(unknown)-Mounthole" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="4.45" y="4.57" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="M1" side="Top" part-id="(unknown)-Mounthole" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="4.45" y="94.74" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="FID3" side="Top" part-id="FIDUCIAL-1X2-FIDUCIAL-1X2" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="2.54" y="9.02" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="R19" side="Top" part-id="R0603-30k" type="Place" check-fids="false">
+         <location units="Millimeters" x="23.37" y="67.31" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="IC1" side="Top" part-id="LQFP64_10-SAMD21J18A-AUT" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="27.94" y="56.64" z="0.0" rotation="180.0"/>
+      </placement>
+      <placement version="1.2" id="R21" side="Top" part-id="R0603-330R" type="Place" check-fids="false">
+         <location units="Millimeters" x="25.4" y="47.77" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="C2" side="Top" part-id="C0603-100nF" type="Place" check-fids="false">
+         <location units="Millimeters" x="19.68" y="52.2" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="C3" side="Top" part-id="C0603-100nF" type="Place" check-fids="false">
+         <location units="Millimeters" x="36.83" y="56.64" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="C5" side="Top" part-id="C0603-1uF" type="Place" check-fids="false">
+         <location units="Millimeters" x="27.3" y="47.75" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="C6" side="Top" part-id="C0603-100nF" type="Place" check-fids="false">
+         <location units="Millimeters" x="19.68" y="60.45" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="C7" side="Top" part-id="C0603-100nF" type="Place" check-fids="false">
+         <location units="Millimeters" x="29.34" y="65.53" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="S5" side="Top" part-id="(unknown)-1.27mm header 5x2" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="25.4" y="43.94" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="U4" side="Top" part-id="SOT223-1117-3.3" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="17.36997413641686" y="36.9409882863883" z="0.0" rotation="180.0"/>
+      </placement>
+      <placement version="1.2" id="C11" side="Top" part-id="C1210-22uF" type="Place" check-fids="false">
+         <location units="Millimeters" x="24.38" y="37.72" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="C13" side="Top" part-id="C1210-22uF" type="Place" check-fids="false">
+         <location units="Millimeters" x="9.78" y="37.08" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="S2" side="Top" part-id="(unknown)-STL1550WH2" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="8.0" y="77.94" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="M3" side="Top" part-id="(unknown)-Mounthole" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="73.66" y="4.57" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="M4" side="Top" part-id="(unknown)-Mounthole" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="73.66" y="94.74" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="FID2" side="Top" part-id="FIDUCIAL-1X2-FIDUCIAL-1X2" type="Fiducial" check-fids="false">
+         <location units="Millimeters" x="74.3" y="90.3" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="FID4" side="Top" part-id="FIDUCIAL-1X2-FIDUCIAL-1X2" type="Fiducial" check-fids="false">
+         <location units="Millimeters" x="76.2" y="15.37" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="C4" side="Top" part-id="C0603-100nF" type="Place" check-fids="false">
+         <location units="Millimeters" x="29.21" y="47.75" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R20" side="Top" part-id="R0603-47k" type="Place" check-fids="false">
+         <location units="Millimeters" x="23.37" y="64.64" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="S1" side="Top" part-id="2-USB B Connector" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="11.31" y="53.57" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="S11" side="Top" part-id="(unknown)-STL1550WH8" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="38.5" y="91.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="S12" side="Top" part-id="(unknown)-STL1550WH8" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="58.5" y="91.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="S13" side="Top" part-id="(unknown)-STL1550WH8" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="18.5" y="8.19" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="S14" side="Top" part-id="(unknown)-STL1550WH8" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="38.5" y="8.19" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="S15" side="Top" part-id="(unknown)-STL1550WH8" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="58.5" y="8.19" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="IC6" side="Top" part-id="SO16-ULN2003" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="52.78" y="54.1" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="R23" side="Top" part-id="R0603-1k5" type="Place" check-fids="false">
+         <location units="Millimeters" x="18.41" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R22" side="Top" part-id="R0603-6k8" type="Place" check-fids="false">
+         <location units="Millimeters" x="16.51" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R24" side="Top" part-id="R0603-1k5" type="Place" check-fids="false">
+         <location units="Millimeters" x="38.73" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R25" side="Top" part-id="R0603-6k8" type="Place" check-fids="false">
+         <location units="Millimeters" x="36.83" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R26" side="Top" part-id="R0603-1k5" type="Place" check-fids="false">
+         <location units="Millimeters" x="58.42" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R27" side="Top" part-id="R0603-6k8" type="Place" check-fids="false">
+         <location units="Millimeters" x="56.52" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R28" side="Top" part-id="R0603-1k5" type="Place" check-fids="false">
+         <location units="Millimeters" x="58.42" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R29" side="Top" part-id="R0603-6k8" type="Place" check-fids="false">
+         <location units="Millimeters" x="60.33" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R30" side="Top" part-id="R0603-1k5" type="Place" check-fids="false">
+         <location units="Millimeters" x="38.73" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R31" side="Top" part-id="R0603-6k8" type="Place" check-fids="false">
+         <location units="Millimeters" x="40.64" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R32" side="Top" part-id="R0603-1k5" type="Place" check-fids="false">
+         <location units="Millimeters" x="18.41" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R33" side="Top" part-id="R0603-6k8" type="Place" check-fids="false">
+         <location units="Millimeters" x="20.32" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R38" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="42.55" y="82.68" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R40" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="46.35" y="82.68" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="IC3" side="Top" part-id="SO14-74HCT04" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="42.55" y="62.92" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="IC2" side="Top" part-id="SO16-ULN2003" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="42.55" y="71.17" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T1" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="21.58827801650731" y="87.13000494208596" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="R35" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="22.23" y="82.68" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R34" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="21.59" y="84.58" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T2" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="25.39827801650732" y="87.13000494208595" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="R36" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="26.04" y="82.68" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R37" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="25.4" y="84.58" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T5" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="61.588278016507324" y="87.13000494208596" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="R42" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="62.23" y="82.68" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R43" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="61.59" y="84.58" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T6" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="65.40827801650732" y="87.13000494208596" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="R44" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="66.04" y="82.68" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R45" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="65.41" y="84.58" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T3" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="41.90827801650731" y="87.13000494208596" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="R39" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="41.91" y="84.58" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T4" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="45.71827801650732" y="87.13000494208596" z="0.0" rotation="-90.0"/>
+      </placement>
+      <placement version="1.2" id="R41" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="45.72" y="84.58" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T11" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="15.241721983492685" y="12.189995057914068" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R54" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="14.61" y="16.64" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R55" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="15.24" y="14.73" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T12" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="11.431721983492684" y="12.189995057914071" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R56" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="10.79" y="16.64" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R57" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="11.43" y="14.73" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T9" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="35.56172198349268" y="12.189995057914052" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R50" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="34.92" y="16.64" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R51" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="35.56" y="14.73" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T10" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="31.751721983492693" y="12.189995057914055" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R52" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="31.11" y="16.64" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R53" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="31.75" y="14.73" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T7" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="55.241721983492695" y="12.18999505791405" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R46" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="54.61" y="16.64" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R47" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="55.24" y="14.73" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="T8" side="Top" part-id="SOT23-BSS84P" type="Place" check-fids="false">
+         <location units="Millimeters" x="51.441721983492684" y="12.189995057914055" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R48" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="50.8" y="16.64" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R49" side="Top" part-id="R0603-4k7" type="Place" check-fids="false">
+         <location units="Millimeters" x="51.44" y="14.73" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="R11" side="Top" part-id="R0805-R05" type="Place" check-fids="false">
+         <location units="Millimeters" x="34.92" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R12" side="Top" part-id="R0805-R05" type="Place" check-fids="false">
+         <location units="Millimeters" x="54.61" y="87.12" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R13" side="Top" part-id="R0805-R05" type="Place" check-fids="false">
+         <location units="Millimeters" x="22.23" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R14" side="Top" part-id="R0805-R05" type="Place" check-fids="false">
+         <location units="Millimeters" x="42.55" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R15" side="Top" part-id="R0805-R05" type="Place" check-fids="false">
+         <location units="Millimeters" x="62.23" y="12.19" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="IC8" side="Top" part-id="MSOP10-INA226AIDGS" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="14.6" y="79.68" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="IC9" side="Top" part-id="MSOP10-INA226AIDGS" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="34.92" y="79.68" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="IC10" side="Top" part-id="MSOP10-INA226AIDGS" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="54.6" y="79.68" z="0.0" rotation="0.0"/>
+      </placement>
+      <placement version="1.2" id="IC13" side="Top" part-id="MSOP10-INA226AIDGS" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="22.23" y="19.64" z="0.0" rotation="180.0"/>
+      </placement>
+      <placement version="1.2" id="IC12" side="Top" part-id="MSOP10-INA226AIDGS" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="42.55" y="19.64" z="0.0" rotation="180.0"/>
+      </placement>
+      <placement version="1.2" id="IC11" side="Top" part-id="MSOP10-INA226AIDGS" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="62.24" y="19.64" z="0.0" rotation="180.0"/>
+      </placement>
+      <placement version="1.2" id="IC4" side="Top" part-id="SO14-74HCT04" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="42.55" y="42.75" z="0.0" rotation="180.0"/>
+      </placement>
+      <placement version="1.2" id="IC5" side="Top" part-id="SO16-ULN2003" type="Ignore" check-fids="false">
+         <location units="Millimeters" x="42.55" y="34.49" z="0.0" rotation="180.0"/>
+      </placement>
+      <placement version="1.2" id="R58" side="Top" part-id="R0603-1k" type="Place" check-fids="false">
+         <location units="Millimeters" x="16.51" y="69.34" z="0.0" rotation="90.0"/>
+      </placement>
+      <placement version="1.2" id="R59" side="Top" part-id="R0603-1k" type="Place" check-fids="false">
+         <location units="Millimeters" x="13.97" y="69.34" z="0.0" rotation="90.0"/>
+      </placement>
+   </placements>
+   <solder-paste-pads/>
+</openpnp-board>

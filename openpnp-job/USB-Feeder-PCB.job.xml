@@ -1,0 +1,9 @@
+<openpnp-job>
+   <panels/>
+   <board-locations>
+      <board-location side="Top" board-file="USB-Feeder-PCB.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
+         <location units="Millimeters" x="38.64329966186624" y="130.40595737485103" z="0.0" rotation="0.26750559760151305"/>
+         <placed class="java.util.HashMap"/>
+      </board-location>
+   </board-locations>
+</openpnp-job>
